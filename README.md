@@ -1,6 +1,14 @@
 # PendulumTestGame
 
-Короткое описание проекта…
+## Время выполнения
+~12 часов (2 дня по ~6 часов)
+
+---
+
+## UnityPackage и Apk
+
+Package - лежит в папке Builds
+Apk - лежит в папке Builds/Android
 
 ---
 
@@ -23,7 +31,3 @@
   <img width="438" height="890" alt="Result Scene" src="https://github.com/user-attachments/assets/7f6e9161-cbda-4a2d-a167-3b1921a4b424" />
 </p>
 
----
-
-## Время выполнения
-~12 часов (2 дня по ~6 часов)
