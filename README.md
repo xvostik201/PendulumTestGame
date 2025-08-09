@@ -15,7 +15,7 @@ Apk - лежит в папке Builds/Android
 
 ## Main Scene
 <p align="center">
-  <img width="435" height="895" alt="Main Scene" src="https://github.com/user-attachments/assets/9ba8205c-c23d-4caa-a9a0-846af48b3a0b" />
+  <img width="434" height="894" alt="image" src="https://github.com/user-attachments/assets/5e2f0ed4-09cf-4c6a-a4d3-2e4122470b5d" />
 </p>
 
 ---
